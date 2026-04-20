@@ -1,0 +1,7 @@
+SURGE_RATE=1.5
+PEAK_HOURS=range(17,21)
+RATES={
+    "ECONOMY":10,
+    "PREMIUM":18,
+    "SUV":25
+}

@@ -1,0 +1,2 @@
+class FareError(Exception):
+    pass
